@@ -1,0 +1,1 @@
+export default function App(){return <h1>Music Pre‑Release Landing Page</h1>}
